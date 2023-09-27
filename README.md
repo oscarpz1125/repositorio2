@@ -43,4 +43,14 @@ lgorghiogrhigrhiopdgnoqnopohweohipghiopgohigrohigewohgrhiogethintrojgrohigrohieg
 |----------|:----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|Derecha|1500€|
+|Col 3 es|Derecha|4€|
+|Final|hola|300€|
+
+###### Exámen
+
+-[ ] Opción A
+
+-[X] Opción B
+
+-[ ] Opción C
 
