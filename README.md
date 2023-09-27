@@ -39,3 +39,8 @@ lgorghiogrhigrhiopdgnoqnopohweohipghiopgohigrohigewohgrhiogethintrojgrohigrohieg
 
 ![Imagen de pelota](https://github.com/oscarpz1125/repositorio2/blob/main/descarga%20(3).jpg "Imagen pelota")
 
+|Titulo |Alineación | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
+
